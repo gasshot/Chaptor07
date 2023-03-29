@@ -11,8 +11,8 @@ namespace BasicClass
             Console.WriteLine($"{Name} : 야옹");
         }
     }
-    
-    
+
+
     class MainApp
     {
         static void Main(string[] args)

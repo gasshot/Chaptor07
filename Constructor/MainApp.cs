@@ -28,8 +28,8 @@ namespace Constructor
             Console.WriteLine($"{Name}: 야옹");
         }
     }
-        class MainApp
-        { 
+    class MainApp
+    {
         static void Main(string[] args)
         {
             Cat kitty = new Cat("키티", "하얀색");
