@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AccessModifier
+namespace AccessModifier  // p247
 {
     class WaterHeater
     {
