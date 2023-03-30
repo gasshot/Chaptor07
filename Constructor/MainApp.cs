@@ -4,7 +4,8 @@ namespace Constructor
 {
     class Cat
     {
-
+           //public string Name;
+           //public string Color;
         public Cat()
         {
             Name = "";
